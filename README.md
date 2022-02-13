@@ -1,1 +1,2 @@
-# pizzaplaceA line I wrote on my local computer  
+# pizzaplace
+Scatterplot showing various pizza diners/ restaurants using the maximum menu price. Data was obtained from 
